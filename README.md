@@ -5,7 +5,7 @@
 
 🔭 I’m currently working on **my portfolio**
 
-🌱 I’m currently learning **JavaScript**
+🌱 I’m currently learning **with Founders and Coders, part of FAC30**
 
 👯 I’m looking to collaborate on **a new game**
 
