@@ -1,20 +1,21 @@
+[![MasterHead](https://static.wixstatic.com/media/c046a4_0cb89ebc954242ae8d7d5bca219dad85~mv2.gif)](https://bajii2020.io)
 <h1 align="center">Hi 👋, I'm Bahja</h1>
 <h3 align="center">Trainee Software Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611217876157/6ZbI33hAF.gif?auto=format,compress&gif-q=60&format=webm">
 
-- 🔭 I’m currently working on **my portfolio**
+🔭 I’m currently working on **my portfolio**
 
-- 🌱 I’m currently learning **JavaScript**
+🌱 I’m currently learning **JavaScript**
 
-- 👯 I’m looking to collaborate on **a new game**
+👯 I’m looking to collaborate on **a new game**
 
-- 🤝 I’m looking for help with **CSS**
+🤝 I’m looking for help with **CSS**
 
-- 💬 Ask me about **Python**
+💬 Ask me about **Python**
 
-- 📫 How to reach me **codingbee877@gmail.com**
+📫 How to reach me **codingbee877@gmail.com**
 
-- ⚡ Fun fact **I like cake**
+⚡ Fun fact **I like cake**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
