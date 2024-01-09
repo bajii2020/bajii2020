@@ -1,5 +1,5 @@
-[![MasterHead](https://static.wixstatic.com/media/c046a4_0cb89ebc954242ae8d7d5bca219dad85~mv2.gif)](https://bajii2020.io)
-<h1 align="center">Hi 👋, I'm Bahja</h1>
+[![MasterHead](https://media0.giphy.com/media/gf675azxNAz2zDQ1vD/giphy.gif?cid=ecf05e4765q5codp8ym4oqtzb2sa1go2lkkixt36py6p6x81&ep=v1_gifs_related&rid=giphy.gif&ct=s)](https://bajii2020.io)
+<h1 align="center">Hi 👋 I'm Bahja</h1>
 <h3 align="center">Trainee Software Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611217876157/6ZbI33hAF.gif?auto=format,compress&gif-q=60&format=webm">
 
